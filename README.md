@@ -1,2 +1,2 @@
-# hookies
-CLI app that sends Webhook Messages Discord.
+# HOOKIES-ESOTERIC #
+CLI Python app that sends messages thru Web Hooks
